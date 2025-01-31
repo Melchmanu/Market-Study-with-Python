@@ -1,0 +1,48 @@
+1. Stabilité politique POLITIQUE
+
+     Évalue les risques liés à l’instabilité politique, qui pourraient affecter la sécurité des échanges commerciaux.
+	Vue au projet précédent, fichier stab politique
+	https://www.fao.org/faostat/fr/#data/FS
+
+2. PIB par habitant ECONOMIQUE
+
+     Évalue le pouvoir d’achat moyen et la capacité des consommateurs à acheter des produits premium comme le bio.
+	Fichier de banque mondiale Pib habitant
+
+3. Importations agroalimentaires (volaille) ECONOMIQUE
+
+     Donne une idée de la dépendance d’un pays à l'importation de produits alimentaires, utile pour identifier les marchés ouverts à de nouveaux fournisseurs.
+	Fichier de FAO dispoalim
+
+4. Production locale de volaille ECONOMIQUE
+
+     Identifie les marchés où la production locale est faible, indiquant une potentielle opportunité d'exportation.
+	Fichier de FAO dispoalim (production)
+
+
+5. Consommation de volaille par habitant SOCIOCULTUREL
+
+    Indique la demande existante pour la volaille, essentiel pour mesurer l’appétence des marchés pour ce type de produit.
+	Fichier de FAO dispoalim
+
+
+6.Population totale SOCIOCULTUREL
+
+    Mesure la taille potentielle du marché. Les pays à forte population offrent plus d'opportunités commerciales.
+	Fichier de FAO Population_2000_2018 
+
+
+
+7 Indice logistique de performance (LPI)  TECHNOLOGIQUE
+	Évalue la qualité des infrastructures de transport, essentielle pour l'importation de viande 
+	Fichier de banque mondiale LPI
+
+
+8. Émissions imputables à l'élevage (volaille) ENVIRONEMENT
+	Donnée concernant les émmissions imputable a l'élevage de volaille
+	Fichier de FAO emission elevage
+
+9. Pays partenaire pour les exportation LEGAL
+	liste de pays partenaire a la france lors des echanges de poulets
+	permet de cibler les pays qui importent déjà de la volaille, ce qui pourrait indiquer un marché avec une demande existante pour les produits avicoles.
+	Fichier de FAO Pays partenaire
